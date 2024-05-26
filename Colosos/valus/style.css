@@ -24,13 +24,13 @@
 }
 
 .blurred-container {
-    background: rgba(0, 0, 0, 0.625); /* Fondo semi-transparente */
-    backdrop-filter: blur(10px); /* Efecto de desenfoque */
-    border-radius: 15px; /* Bordes redondeados */
+    background: rgba(0, 0, 0, 0.625); 
+    backdrop-filter: blur(10px);
+    border-radius: 15px; 
     padding: 20px;
     max-width: 700px;
     text-align: center;
-    color: #c9c9c9; /* Color del texto */
+    color: #c9c9c9; 
     font-size: 30px;
 }
 
